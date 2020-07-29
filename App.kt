@@ -1,7 +1,7 @@
 /*
-Nama        : Weny Cahyani Santoso
-Kelas       : XI RPL 6
-No. Absen   : 30
+Nama      : Labibibah Raihanatul Salwa
+Kelas     : XI RPL 6
+No. Absen : 19
  */
 
 fun main() {
